@@ -1,6 +1,7 @@
 ## Sekolah Tinggi Bahasa Asing Pontianak
 STBA Pontianak
-![IMG_7083](https://user-images.githubusercontent.com/94507345/148672137-5236c584-5312-4818-996d-8ddaf82dee30.JPG)
+![gedung kampus](https://user-images.githubusercontent.com/94507345/148672342-06d0891f-0b6b-4843-9757-90d8bc73ef63.jpg)
+
 
 Sejarah
 

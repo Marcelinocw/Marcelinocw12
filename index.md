@@ -1,7 +1,18 @@
-## Welcome to GitHub Pages
-
-Sekolah Tinggi Bahasa Asing Pontianak
+## Sekolah Tinggi Bahasa Asing Pontianak
 STBA Pontianak
+
+Sejarah
+
+Yayasan atau badan hukum penyelenggara Sekolah Tinggi Bahasa Asing Pontianak merupakan Yayasan Pendidikan Indograha Manajemen yang didirikan pada tanggal 12 Maret 1992 berdasarkan Akte Notaris Sri Rohani Wahyudi, S.H No. 34 dan telah terdaftar di Pengadilan Negeri Pontianak No. 08/Y.Y.PENDAF/1992/PN.PTK serta telah mendapat pengesahan Menteri Hukum dan HAM SK No. AHU 2276.AH.01.04 tahun 2010. 
+
+Akademi Bahasa Asing / ABA Pontianak berdiri pada tahun 1994 berdasarkan SK Dirjen Dikti Depdiknas & SK Mendikbud No. 065/D/0/94 dan menyelenggarakan Program Diploma Tiga Bahasa Inggris.
+
+Pada tahun 2006, ABA Pontianak memperoleh nilai akreditasi "B (Baik)" BAN-PT, selanjutnya ABA Pontianak kembali memperoleh nilai akreditasi "B (Baik)" BAN-PT pada tahun 2014.
+
+Berdasarkan SK Menteri Pendidikan dan Kebudayaan Republik Indonesia No. 590/E/0/2014 tanggal 17 Oktober 2014, ABA Pontianak diberi kepercayaan oleh Dirjen Dikti untuk menyelenggarakan Program Studi Sastra Inggris (Program Sarjana/S1) dan selanjutnya berubah bentuk menjadi Sekolah Tinggi Bahasa Asing / STBA Pontianak. 
+
+Terhitung mulai tahun 2015, STBA Pontianak secara resmi menyelenggarakan Program Studi Sastra Inggris (Program Sarjana / S1) dan Program Studi Bahasa Inggris (Program Diploma Tiga / DIII)
+
 You can use the [editor on GitHub](https://github.com/Marcelinocw/Marcelinocw12/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.orange

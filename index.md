@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Sekolah Tinggi Bahasa Asing Pontianak
+STBA Pontianak
 You can use the [editor on GitHub](https://github.com/Marcelinocw/Marcelinocw12/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -17,7 +19,6 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-![IMG_7083](https://user-images.githubusercontent.com/94507345/148671137-7e310352-58dd-4df8-b46c-e98e9565bff4.JPG)
 
 1. Numbered
 2. List

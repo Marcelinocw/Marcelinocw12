@@ -17,6 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+![IMG_7083](https://user-images.githubusercontent.com/94507345/148671137-7e310352-58dd-4df8-b46c-e98e9565bff4.JPG)
 
 1. Numbered
 2. List
